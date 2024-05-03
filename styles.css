@@ -5,6 +5,7 @@ body {
   width: 100dvw;
   height: 100dvh;
   overflow: hidden;
+  background-color: #e7e4df;
 }
 
 .content {
