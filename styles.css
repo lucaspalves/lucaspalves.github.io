@@ -73,7 +73,7 @@ body {
 
 @media (max-width: 500px) {
   .name {
-    font-size: 10em;
+    font-size: 8em;
     line-height: 0.5em;
   }
 
